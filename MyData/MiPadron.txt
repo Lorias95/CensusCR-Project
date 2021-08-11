@@ -1,0 +1,848 @@
+101042358,103025, ,20220531,00000,DELFINA                       ,SEGURA                    ,JIMENEZ                   
+101141655,103033, ,20300204,00000,TRINIDAD                      ,VINDAS                    ,PEREZ                     
+101200868,103006, ,20260714,00000,TARCILA                       ,MORA                      ,CASCANTE                  
+101220285,103001, ,20300204,00000,BETTINA                       ,MONGE                     ,MORALES                   
+101220466,103001, ,20231129,00000,NEFTALI                       ,FALLAS                    ,PORRAS                    
+101280947,103008, ,20261019,00000,GERMAN                        ,CARVAJAL                  ,BERMUDEZ                  
+101290310,103005, ,20231029,00000,MARIA ANGELA                  ,FALLAS                    ,FALLAS                    
+101350959,103031, ,20250706,00000,PILAR                         ,FERNANDEZ                 ,ARAYA                     
+101370578,103008, ,20280207,00000,ODILI                         ,VILLALOBOS                ,CHAVES                    
+101410864,103001, ,20300204,00000,ROSA                          ,CARVAJAL                  ,AGUERO                    
+101420176,103001, ,20261117,00000,ALBERTINA                     ,DIAZ                      ,RODRIGUEZ                 
+101420478,103008, ,20220531,00000,BLANCA                        ,MEZA                      ,BERMUDEZ                  
+101420564,103023, ,20280207,00000,SOCORRO                       ,CARMONA                   ,GUERRERO                  
+101420982,103004, ,20230215,00000,EFRAIN                        ,CHINCHILLA                ,BARBOZA                   
+101440441,103017, ,20281010,00000,BLANCA                        ,AGUERO                    ,DIAZ                      
+101440528,103004, ,20220531,00000,CAROLINA                      ,NAVARRO                   ,UREÑA                     
+101460476,103031, ,20320202,00000,ROMELIA                       ,JIMENEZ                   ,QUESADA                   
+101470710,103008, ,20240625,00000,ELSA                          ,DELGADO                   ,CARVAJAL                  
+101480512,103006, ,20230610,00000,BLANCA ROSA                   ,RETANA                    ,CESPEDES                  
+101490300,103001, ,20230227,00000,SARA                          ,ORDEÑANA                  ,ALVAREZ                   
+101510161,103001, ,20240210,00000,OLGA                          ,MONGE                     ,SERRANO                   
+101510527,103028, ,20220531,00000,BLANCA                        ,MORA                      ,FALLAS                    
+101510898,103028, ,20280207,00000,ELODIA                        ,SEAS                      ,HIDALGO                   
+101510927,103001, ,20250701,00000,NELLY                         ,PORRAS                    ,ARGUEDAS                  
+101540758,103002, ,20300204,00000,GLADYS                        ,RODRIGUEZ                 ,RAMIREZ                   
+101560698,103006, ,20250212,00000,GLADYS                        ,ZAPATA                    ,MORA                      
+101570340,103007, ,20220630,00000,MARIA CRISTINA                ,MONGE                     ,PIEDRA                    
+101570876,103001, ,20260317,00000,MARIA ADORACION               ,SOLANO                    ,ALVARADO                  
+101570926,103008, ,20250105,00000,AIDA                          ,FONSECA                   ,VEGA                      
+101580162,103019, ,20280321,00000,ZOILA                         ,CARRANZA                  ,MORA                      
+101580389,103007, ,20240131,00000,CASIMIRO                      ,PICADO                    ,PICADO                    
+101580702,103001, ,20300204,00000,BERNARDO                      ,MARIN                     ,ARGUEDAS                  
+101580723,103019, ,20220331,00000,MARIA CELINA                  ,SANCHO                    ,ROJAS                     
+101580768,103005, ,20270323,00000,ZORAIDA                       ,CHACON                    ,VALVERDE                  
+101580901,103001, ,20220228,00000,SILVINA                       ,SEGURA                    ,HERRERA                   
+101590192,103011, ,20300204,00000,INDALECIO                     ,FALLAS                    ,VILLALOBOS                
+101600160,103001, ,20240212,00000,DORA MARIA                    ,CERDAS                    ,MORA                      
+101600240,103017, ,20280207,00000,LETICIA                       ,MORA                      ,VENEGAS                   
+101600323,103001, ,20240306,00000,AMPARO                        ,MURILLO                   ,BARRANTES                 
+101600786,103017, ,20230424,00000,MARIA EVELIA                  ,GAMBOA                    ,NARANJO                   
+101610286,103018, ,20261212,00000,NELLY                         ,MORA                      ,MORA                      
+101620066,103005, ,20300204,00000,EVELIA                        ,CAMACHO                   ,VALVERDE                  
+101620074,103018, ,20300204,00000,ELOISA                        ,ROJAS                     ,FERNANDEZ                 
+101620547,103006, ,20270323,00000,BERTILA                       ,CESPEDES                  ,MATA                      
+101620586,103007, ,20220926,00000,ANTONIA EMERITA               ,PEREZ                     ,ACUÑA                     
+101620966,103018, ,20240406,00000,VICTORIA                      ,ARIAS                     ,CHINCHILLA                
+101630107,103011, ,20220531,00000,GRACIELA                      ,MONTES                    ,GUZMAN                    
+101630318,103018, ,20220531,00000,OVIDIO                        ,GODINEZ                   ,HIDALGO                   
+101640231,103019, ,20310121,00000,MARGARITA                     ,BARRIENTOS                ,ZUMBADO                   
+101640538,103018, ,20301022,00000,MARIA ROSA                    ,PICADO                    ,GAMBOA                    
+101640716,103002, ,20270210,00000,SOCORRO                       ,ARIAS                     ,GODINEZ                   
+101640880,103001, ,20300204,00000,MARCO TULIO                   ,CORNEJO                   ,UREÑA                     
+101640943,103021, ,20300204,00000,BELLANIRA                     ,JIMENEZ                   ,MORA                      
+101640946,103005, ,20220820,00000,DIVINA                        ,MORA                      ,CHACON                    
+101650590,103006, ,20280712,00000,ADITA                         ,PORRAS                    ,CASCANTE                  
+101650598,103001, ,20260519,00000,CLARISA                       ,FERNANDEZ                 ,MONGE                     
+101660127,103002, ,20220531,00000,SIGIFREDO                     ,UREÑA                     ,QUESADA                   
+101660406,103006, ,20300204,00000,MARIA MELITINA                ,FALLAS                    ,VALVERDE                  
+101660664,103023, ,20240627,00000,PAULINA                       ,ECHANDI                   ,MURILLO                   
+101660720,103021, ,20220630,00000,EDELMIRA                      ,HERNANDEZ                 ,MENA                      
+101660733,103006, ,20220331,00000,JOSE LUIS                     ,ULLOA                     ,PRADO                     
+101660827,103018, ,20280316,00000,ARISTIDES                     ,HERNANDEZ                 ,ALPIZAR                   
+101660906,103002, ,20300204,00000,CARMEN                        ,PRADO                     ,RIOS                      
+101680399,103001, ,20220314,00000,RODERICO                      ,MORA                      ,MADRIGAL                  
+101680604,103006, ,20280726,00000,CLEMENTINA                    ,BARRANTES                 ,BADILLA                   
+101690092,103008, ,20220228,00000,BIENVENIDA                    ,NARANJO                   ,MONGE                     
+101690483,103001, ,20280207,00000,BERTA LILIAM                  ,GARBANZO                  ,CHACON                    
+101700185,103002, ,20230902,00000,JOSE MANUEL                   ,FERNANDEZ                 ,ELIZONDO                  
+101700626,103019, ,20230122,00000,MARIA MAGDALENA               ,AGUILAR                   ,AGUILAR                   
+101700741,103001, ,20220228,00000,RAFAEL ANGEL                  ,QUIROS                    ,SOLANO                    
+101700910,103019, ,20260202,00000,MARIA ISABEL                  ,SEAS                      ,SEAS                      
+101710512,103006, ,20250730,00000,JOSE ANTONIO                  ,FALLAS                    ,DIAZ                      
+101710730,103033, ,20231212,00000,MARIA LUISA                   ,BARBOZA                   ,CORDERO                   
+101720005,103002, ,20250318,00000,JOSE ARTURO                   ,ARROYO                    ,VARGAS                    
+101720039,103002, ,20300204,00000,ZORAIDA                       ,GUTIERREZ                 ,SALAS                     
+101720580,103011, ,20260202,00000,JUAN RAFAEL                   ,SANDOVAL                  ,AGUILAR                   
+101720802,103005, ,20270130,00000,ANTONIO                       ,RAMIREZ                   ,ALCAZAR                   
+101720849,103019, ,20260712,00000,MARIA PACIFICA                ,FALLAS                    ,AGUILAR                   
+101720852,103011, ,20280207,00000,BLANCA NIEVES                 ,FALLAS                    ,VILLALOBOS                
+101720854,103006, ,20310112,00000,JUAN ELSI                     ,PICADO                    ,BLANCO                    
+101730404,103005, ,20230620,00000,LUISA                         ,ULLOA                     ,ZUÑIGA                    
+101730454,103018, ,20300204,00000,ELODIA                        ,CUBILLO                   ,DURAN                     
+101730590,103028, ,20220724,00000,JOSE PIEDADES                 ,PEREZ                     ,QUIROS                    
+101730641,103001, ,20320202,00000,HAYDEE                        ,GOMEZ                     ,CASCANTE                  
+101740060,103018, ,20280207,00000,MARGOT                        ,ABARCA                    ,ORTEGA                    
+101740531,103022, ,20300204,00000,VICTOR MANUEL                 ,VALVERDE                  ,HERNANDEZ                 
+101740628,103026, ,20250227,00000,MARIA ELISA                   ,RIVERA                    ,CASCANTE                  
+101750172,103009, ,20241203,00000,OFELIA                        ,ORTIZ                     ,ROMAN
+204230080,201044, ,20301103,00000,JOAQUIN                       ,ALVAREZ                   ,VILLEGAS                  
+204230081,201010, ,20280207,00000,MARIA CECILIA                 ,ARRIETA                   ,BERMUDEZ                  
+204230083,201021, ,20300204,00000,JUAN LUIS                     ,CASTILLO                  ,NAVARRO                   
+204230084,201033, ,20281024,00000,IRIS LORENA                   ,SANCHEZ                   ,CHAVARRIA                 
+204230085,201049, ,20270417,00000,RICARDO ARTURO                ,GONZALEZ                  ,ARGUEDAS                  
+204230147,201042, ,20220531,00000,LIGIA CRISTINA                ,CORELLA                   ,ROJAS                     
+204230154,201004, ,20280314,00000,SAUL GERARDO                  ,ALFARO                    ,SALAS                     
+204230169,201046, ,20280207,00000,CESAR MAURICIO                ,ROJAS                     ,SALAS                     
+204230170,201043, ,20280207,00000,MAYNOR GERARDO                ,ARAYA                     ,HERNANDEZ                 
+204230224,201042, ,20300204,00000,GILBERT                       ,RODRIGUEZ                 ,GONZALEZ                  
+204230225,201046, ,20230827,00000,MAYRA                         ,VARGAS                    ,PORTUGUEZ                 
+204230240,201068, ,20300821,00000,GLEN GERARDO                  ,BARQUERO                  ,ROJAS                     
+204230241,201073, ,20300204,00000,MAIRET                        ,CHAVES                    ,HERRERA                   
+204230242,201051, ,20300604,00000,JESUS ANTONIO                 ,VILLALOBOS                ,HERNANDEZ                 
+204230243,201002, ,20280330,00000,MARIANELA                     ,CASTILLO                  ,CARVAJAL                  
+204230246,201031, ,20230912,00000,ARNOLDO                       ,CORTES                    ,PANIAGUA                  
+204230248,201024, ,20300306,00000,LUIS FERNANDO                 ,MURILLO                   ,GONZALEZ                  
+204230250,201067, ,20260202,00000,JEANETTE ROCIO                ,SALAS                     ,ALFARO                    
+204230251,201025, ,20300204,00000,LUPITA MARIA                  ,PANIAGUA                  ,MOREIRA                   
+204230255,201022, ,20280207,00000,MERCEDES                      ,VARGAS                    ,JIMENEZ                   
+204230258,201009, ,20220925,00000,JULIO CESAR                   ,SANCHEZ                   ,GOMEZ                     
+204230259,201011, ,20221129,00000,MARIA VIRGINIA                ,CAMBRONERO                ,ARIAS                     
+204230261,201004, ,20250805,00000,MARTA NIDIA                   ,VEGA                      ,CASTILLO                  
+204230264,201022, ,20230225,00000,EMILIA                        ,CAMBRONERO                ,HERNANDEZ                 
+204230265,201032, ,20300204,00000,ADRIAN                        ,MONTERO                   ,LOPEZ                     
+204230267,201002, ,20270517,00000,RAFAEL ANGEL                  ,SALAZAR                   ,UGALDE                    
+204230269,201068, ,20240903,00000,GABRIEL                       ,ALFARO                    ,SOTO                      
+204230274,201069, ,20300609,00000,JOHN                          ,QUIROS                    ,BOGANTES                  
+204230276,201031, ,20300204,00000,JUAN DE DIOS                  ,RIVERA                    ,ALVARADO                  
+204230277,201004, ,20300624,00000,JUAN CARLOS                   ,VILLALOBOS                ,ROJAS                     
+204230278,201014, ,20301116,00000,CARLOS ENRIQUE                ,PORRAS                    ,BARQUERO                  
+204230279,201070, ,20260916,00000,MARTA ELENA                   ,NAVARRO                   ,GOMEZ                     
+204230280,201011, ,20280621,00000,DONAY                         ,SOLERA                    ,SALAS                     
+204230281,201047, ,20220228,00000,GISELLE MAYELA                ,ALVAREZ                   ,GONZALEZ                  
+204230285,201009, ,20300204,00000,RAFAEL ANGEL                  ,PANIAGUA                  ,SOLIS                     
+204230289,201002, ,20260531,00000,JOSE RAFAEL                   ,SOLANO                    ,MURILLO                   
+204230290,201002, ,20220630,00000,OSCAR                         ,SOTO                      ,VARGAS                    
+204230292,201037, ,20301123,00000,MARIA EUGENIA                 ,ROJAS                     ,LOPEZ                     
+204230294,201001, ,20221130,00000,ROSA ELENA                    ,RAMOS                     ,MORERA                    
+204230295,201003, ,20230408,00000,WILLIAM ENRIQUE               ,BERROCAL                  ,CAMPOS                    
+204230296,201021, ,20280808,00000,GILBERT GERARDO               ,ARROYO                    ,HERNANDEZ                 
+204230317,201002, ,20280911,00000,SONIA                         ,CAMPOS                    ,MADRIZ                    
+204230367,201042, ,20300206,00000,WILLIAM GERARDO               ,CASTRO                    ,ZAMORA                    
+204230379,201015, ,20300204,00000,LUZ MERY                      ,RODRIGUEZ                 ,ROJAS                     
+204230380,201003, ,20250105,00000,WILBER ANDRES                 ,CALVO                     ,ALFARO                    
+204230383,201025, ,20280220,00000,MARIA ISABEL                  ,ALFARO                    ,CASTRO                    
+204230386,201026, ,20270503,00000,MELVIN                        ,GUZMAN                    ,CONTRERAS                 
+204230394,201011, ,20280430,00000,EMILIO                        ,MURILLO                   ,ROJAS                     
+204230399,201011, ,20300204,00000,ALBA CUSTODIA                 ,MURILLO                   ,ROJAS                     
+204230400,201004, ,20280212,00000,RUTH MARIA                    ,CUADRA                    ,OVIEDO                    
+204230407,201009, ,20270117,00000,GABRIEL                       ,FUENTES                   ,MARTINEZ                  
+204230411,201070, ,20280207,00000,JORGE ENRIQUE                 ,RAMIREZ                   ,SOLANO                    
+204230412,201002, ,20250518,00000,VICTOR JULIO                  ,REYES                     ,RODRIGUEZ                 
+204230413,201015, ,20301217,00000,MARLENE                       ,MORERA                    ,ZUMBADO                   
+204230424,201022, ,20260219,00000,ELIETH                        ,LOPEZ                     ,VALVERDE                  
+204230437,201005, ,20310119,00000,BERNAL                        ,ROJAS                     ,HUERTAS                   
+204230448,201030, ,20220531,00000,JORGE LUIS                    ,CASCANTE                  ,LORIA                     
+204230460,201010, ,20301110,00000,EMILIA MARIA                  ,CHACON                    ,CAMPOS                    
+204230465,201047, ,20300515,00000,CARLOS ENRIQUE                ,VENEGAS                   ,SOTO                      
+204230472,201005, ,20260202,00000,CONCEPCION                    ,CESPEDES                  ,CASTRO                    
+204230482,201003, ,20300207,00000,DANIEL GERARDO                ,ALFARO                    ,CHAVES                    
+204230489,201058, ,20230925,00000,ROGELIO OLDEMAR               ,BLANCO                    ,RODRIGUEZ                 
+204230511,201024, ,20300204,00000,GABRIEL                       ,ARGUEDAS                  ,PORRAS                    
+204230544,201073, ,20320202,00000,MARIA DE LOS ANGELES          ,SALAZAR                   ,GONZALEZ                  
+204230557,201003, ,20260202,00000,BLANCA LIDIANETH              ,MURILLO                   ,MORA                      
+204230564,201021, ,20301006,00000,CRUZ                          ,VILLEGAS                  ,JIMENEZ
+302020836,301025, ,20301118,00000,LIGIA DEYANIRA                ,QUIROS                    ,SOLANO                    
+302020837,301002, ,20301005,00000,MANUEL FABIO                  ,MENDEZ                    ,MONGE                     
+302020841,301025, ,20280322,00000,JOSE EFRAIN                   ,SEGURA                    ,GUZMAN                    
+302020845,301006, ,20280911,00000,MANUEL ANTONIO                ,VILLALOBOS                ,VILLAVICENCIO             
+302020846,301005, ,20301127,00000,GUILLERMO ENRIQUE             ,MENA                      ,SOLANO                    
+302020847,301002, ,20230212,00000,IRMA DEL CARMEN               ,CERDAS                    ,ARAYA                     
+302020848,301006, ,20300204,00000,MANUEL                        ,CANTILLO                  ,TORRES                    
+302020849,301006, ,20320202,00000,EDWIN                         ,PEREIRA                   ,PEREIRA                   
+302020852,301020, ,20250831,00000,OTONIEL                       ,AGUILAR                   ,GUZMAN                    
+302020854,301006, ,20300204,00000,NORA VIRGINIA                 ,CORDERO                   ,JIMENEZ                   
+302020858,301002, ,20250713,00000,DANILO                        ,BRENES                    ,CHACON                    
+302020862,301029, ,20241023,00000,DAVID                         ,GOMEZ                     ,MOLINA                    
+302020870,301003, ,20260205,00000,MARIA ISABEL                  ,CHACON                    ,JIMENEZ                   
+302020872,301002, ,20230715,00000,MARIO ENRIQUE                 ,GOMEZ                     ,CORRALES                  
+302020874,301018, ,20260202,00000,MIGUEL ANGEL                  ,ROMERO                    ,ARCE                      
+302020877,301003, ,20220920,00000,MARTA ISABEL                  ,MASIS                     ,RIVERA                    
+302020878,301007, ,20230830,00000,ANABELLE                      ,ESCOBAR                   ,RODRIGUEZ                 
+302020885,301004, ,20231009,00000,MARITZA                       ,ASTORGA                   ,CALDERON                  
+302020889,301020, ,20240926,00000,SARA MARIA                    ,GONZALEZ                  ,MAROTO                    
+302020891,301003, ,20220718,00000,MARCO ANTONIO                 ,GOMEZ                     ,SANCHEZ                   
+302020892,301003, ,20220228,00000,LILLIAM                       ,VILLALOBOS                ,PEÑA                      
+302020893,301004, ,20300226,00000,PATRICIA MARIA                ,SOLIS                     ,ROJAS                     
+302020894,301006, ,20240224,00000,ZOILA ROSA                    ,ZUÑIGA                    ,RODRIGUEZ                 
+302020896,301002, ,20300204,00000,VICTOR ANGEL                  ,LEITON                    ,LEITON                    
+302020897,301026, ,20250507,00000,MARIA                         ,ZUÑIGA                    ,COTO                      
+302020898,301003, ,20250223,00000,MARIA ADELINA                 ,MONGE                     ,CALVO                     
+302020902,301006, ,20260719,00000,ISABEL MARIA                  ,GARITA                    ,VILLAVICENCIO             
+302020904,301015, ,20231218,00000,FLORA HILDA                   ,CORDERO                   ,JIMENEZ                   
+302020907,301014, ,20250420,00000,MARIA CECILIA                 ,SOLANO                    ,SOLANO                    
+302020910,301007, ,20270116,00000,CARMEN TERESITA               ,CORDERO                   ,MARTINEZ                  
+302020911,301018, ,20300204,00000,MARIA DEL MILAGRO             ,GONZALEZ                  ,MORA                      
+302020912,301001, ,20300204,00000,MARIA DEL ROCIO               ,GONZALEZ                  ,MORA                      
+302020914,301029, ,20220331,00000,LEDA PATRICIA                 ,ARROYO                    ,FLORES                    
+302020916,301030, ,20280704,00000,INES MARITZA                  ,CERDAS                    ,ARAYA                     
+302020917,301017, ,20270517,00000,JORGE                         ,MOLINA                    ,BRENES                    
+302020919,301002, ,20220607,00000,DELFINA MARIA                 ,PACHECO                   ,FERNANDEZ                 
+302020925,301024, ,20300204,00000,NORA LILLIAM                  ,MONGE                     ,HERNANDEZ                 
+302020926,301025, ,20300204,00000,EDUARDO ALBERTO               ,MONGE                     ,HERNANDEZ                 
+302020928,301003, ,20300825,00000,CARLOS ADOLFO                 ,MONGE                     ,MONGE                     
+302020929,301004, ,20280925,00000,JOSE FRANCISCO                ,SANABRIA                  ,SOLANO                    
+302020931,301021, ,20300204,00000,OMAR                          ,ROMERO                    ,SEGURA                    
+302020935,301026, ,20280306,00000,CARLOS ALBERTO                ,BRENES                    ,ACUÑA                     
+302020936,301017, ,20320202,00000,CARLOS                        ,LEITON                    ,MADRIGAL                  
+302020937,301017, ,20240113,00000,ALBA                          ,LEITON                    ,LORIA                     
+302020939,301010, ,20320202,00000,PABLO                         ,MONTERO                   ,CALDERON                  
+302020942,301011, ,20280319,00000,VICTORIANO                    ,UREÑA                     ,VALVERDE                  
+302020944,301002, ,20230917,00000,DAVID ALFREDO                 ,ZUÑIGA                    ,MEOÑO                     
+302020949,301001, ,20280207,00000,JORGE ARTURO                  ,ALVARADO                  ,JIMENEZ                   
+302020964,301025, ,20250429,00000,ALBA ROSA                     ,MARIN                     ,BARAHONA                  
+302020966,301002, ,20270201,00000,ALEJANDRA                     ,COTO                      ,HIDALGO                   
+302020967,301003, ,20320202,00000,LUIS FERNANDO                 ,SALAZAR                   ,FONSECA                   
+302020969,301006, ,20300204,00000,CARLOS ALBERTO                ,FUENTES                   ,VILLAVICENCIO             
+302020970,301026, ,20300204,00000,FLOR MARIA                    ,RIVERA                    ,FERNANDEZ                 
+302020975,301003, ,20300728,00000,JOSE ALBERTO                  ,LOAIZA                    ,GALLO                     
+302020976,301003, ,20261013,00000,MARIA AUXILIADORA             ,CORDERO                   ,FERNANDEZ                 
+302020978,301001, ,20260428,00000,RAFAEL                        ,ABARCA                    ,AGUILERA                  
+302020979,301030, ,20280229,00000,GLADYS                        ,RAMIREZ                   ,AGUILERA                  
+302020983,301002, ,20300204,00000,ANA ISABEL                    ,MOLINA                    ,CAMPOS                    
+302020986,301014, ,20220613,00000,ELEY ENRIQUE                  ,ROJAS                     ,UREÑA                     
+302020990,301002, ,20300205,00000,SEIDY MARIA                   ,VILLAVICENCIO             ,MASIS                     
+302030002,301011, ,20300204,00000,LELIS GERARDO                 ,MONESTEL                  ,NAVARRO                   
+302030004,301011, ,20301124,00000,BERTILIA                      ,CORDERO                   ,VALVERDE                  
+302030006,301008, ,20250318,00000,BAUDILIO                      ,CECILIANO                 ,ORTEGA                    
+302030016,301022, ,20320202,00000,HILDA                         ,UREÑA                     ,AMADOR                    
+302030018,301005, ,20300204,00000,GUIDO                         ,CERDAS                    ,CALDERON                  
+302030019,301006, ,20280207,00000,ANIBAL                        ,TORRES                    ,GUTIERREZ                 
+302030021,301002, ,20230510,00000,RODRIGO ARNOLDO               ,MADRIGAL                  ,LOAIZA                    
+302030025,301025, ,20300204,00000,JORGE ARTURO                  ,MONGE                     ,MATTEY                    
+302030028,301025, ,20231113,00000,ANA ESPERANZA                 ,MORA                      ,ABARCA                    
+302030032,301023, ,20220228,00000,GEORGINA                      ,ROMERO                    ,VARGAS                    
+302030034,301007, ,20250105,00000,MYRIAM                        ,CESPEDES                  ,BRENES                    
+302030035,301023, ,20260506,00000,MARIA AUXILIADORA             ,COTO                      ,MONTERO                   
+302030040,301014, ,20300204,00000,MARIA ANGELA                  ,SOLANO                    ,CASTILLO                  
+302030053,301025, ,20320202,00000,EDGAR ARTURO                  ,BRENES                    ,CALVO                     
+302030068,301023, ,20230717,00000,FERNANDO                      ,OBANDO                    ,MARIN                     
+302030070,301004, ,20270209,00000,CLAUDIO                       ,JIMENEZ                   ,BRENES                    
+302030092,301031, ,20300204,00000,JOSE NICOLAS                  ,SANCHEZ                   ,MASIS                     
+302030095,301002, ,20300204,00000,JOSE MANUEL                   ,BRENES                    ,FUENTES                   
+302030105,301029, ,20220830,00000,MARIA ELENA                   ,PEREIRA                   ,GUTIERREZ                 
+302030108,301003, ,20261222,00000,ANA LIGIA                     ,OROZCO                    ,MARIN                     
+302030112,301025, ,20280207,00000,MARIA INES                    ,QUESADA                   ,CALVO                     
+302030155,301025, ,20300204,00000,JOSE GUILLERMO                ,CALDERON                  ,SALAZAR                   
+302030200,301018, ,20300204,00000,EDUARDO ALFONSO               ,CASTILLO                  ,ROJAS                     
+302030229,301003, ,20270102,00000,JORGE EDWIN                   ,ANGULO                    ,CASTILLO                  
+302030246,301002, ,20230522,00000,ALVARO                        ,PIEDRA                    ,GUZMAN                    
+302030279,301004, ,20310106,00000,GRACIELA                      ,PEREIRA                   ,ARAYA                     
+302030287,301007, ,20240305,00000,MARIO ALBERTO                 ,TORRES                    ,SOLANO                    
+302030303,301030, ,20280207,00000,JULIA MARIA                   ,CORDOBA                   ,ARTAVIA                   
+302030307,301002, ,20230711,00000,CLEMENCIA MARIA               ,CORDOBA                   ,MOYA                      
+302030308,301028, ,20240424,00000,ROSA MARIA                    ,GUTIERREZ                 ,MORALES                   
+302030319,301029, ,20320202,00000,ISABEL CRISTINA               ,SEGURA                    ,AVENDAÑO                  
+302030322,301005, ,20300204,00000,RAFAEL ANGEL                  ,UMAÑA                     ,MONTOYA                   
+302030343,301005, ,20270526,00000,OLGA EDITH                    ,ARRIETA                   ,PEREIRA                   
+302030355,301002, ,20281219,00000,MARVIN                        ,GONZALEZ                  ,ALVARADO                  
+302030358,301006, ,20280622,00000,CARMEN LORENA                 ,VIVES                     ,HERNANDEZ                 
+302030389,301007, ,20260719,00000,ANA LIA                       ,RODRIGUEZ                 ,SILES                     
+302030393,301023, ,20301215,00000,IRMINA                        ,NUÑEZ                     ,VASQUEZ                   
+302030396,301003, ,20270307,00000,ROSA MARIA                    ,CORTES                    ,SILES                     
+302030401,301002, ,20281107,00000,CARLOS MANUEL                 ,MADRIGAL                  ,JIMENEZ                   
+302030416,301018, ,20300204,00000,FLOR MARIA                    ,MENA                      ,SANCHEZ                   
+302030431,301007, ,20261201,00000,ARNOLDO                       ,RAMIREZ                   ,UMAÑA                     
+302030483,301005, ,20270123,00000,ZEIDY                         ,LOAIZA                    ,ACUÑA                     
+302030532,301005, ,20260204,00000,MIGUEL ANGEL                  ,MARIN                     ,CALDERON                  
+302030534,301004, ,20250406,00000,PABLO                         ,PEREZ                     ,CHACON                    
+302030552,301024, ,20300204,00000,ERNESTO                       ,CAMACHO                   ,ZUÑIGA                    
+302030568,301007, ,20260506,00000,MARCO TULIO                   ,ROMERO                    ,CALDERON                  
+302030570,301005, ,20320202,00000,MERCEDES                      ,ARAYA                     ,SEGURA                    
+302030573,301035, ,20300204,00000,MIGUEL ANGEL                  ,ROBLES                    ,FUENTES                   
+302030608,301025, ,20240728,00000,FLOR MARIA                    ,BRENES                    ,JIMENEZ                   
+302030611,301027, ,20250710,00000,MARIA LIA                     ,CALDERON                  ,SALAZAR                   
+302030646,301005, ,20220430,00000,JORGE HUMBERTO                ,CORDERO                   ,QUESADA                   
+302030668,301001, ,20300204,00000,OLGA MARTA                    ,ACUÑA                     ,SALAS                     
+302030669,301004, ,20270118,00000,SOLEDAD MAYELA                ,ALVARADO                  ,HERNANDEZ                 
+302030670,301031, ,20300323,00000,MANUEL ENRIQUE                ,ALVARADO                  ,HERNANDEZ                 
+302030671,301029, ,20300204,00000,IGNACIO                       ,VEGA                      ,MATA                      
+302030672,301024, ,20300217,00000,ANA ISABEL                    ,ALVARADO                  ,MONGE                     
+302030673,301004, ,20280207,00000,JORGE HUMBERTO                ,ALVARADO                  ,MONGE                     
+302030688,301002, ,20300220,00000,ROXANA MARIA                  ,BRENES                    ,NAVARRO                   
+302030693,301008, ,20260223,00000,ELADIO                        ,BRENES                    ,PEREIRA                   
+302030703,301027, ,20240321,00000,ALBERTO EUGENIO               ,MATA                      ,PIEDRA                    
+302030706,301007, ,20300204,00000,CARLOS HUMBERTO               ,CALDERON                  ,SEGURA                    
+302030708,301001, ,20300204,00000,ELIZABETH                     ,ARIAS                     ,AGUILAR                   
+302030711,301029, ,20240502,00000,ANA CECILIA                   ,MUÑOZ                     ,JIMENEZ                   
+302030712,301003, ,20301119,00000,ORFILIO                       ,VEGA                      ,SOLANO                    
+302030713,301027, ,20320202,00000,JOSE FRANCISCO                ,CEDEÑO                    ,OLIVARES                  
+302030714,301029, ,20320202,00000,ARTURO                        ,ACUÑA                     ,SALAS                     
+302030717,301007, ,20290108,00000,LIGIA MARIA                   ,HERNANDEZ                 ,RODRIGUEZ                 
+302030718,301003, ,20260216,00000,ALEJANDRA                     ,COTO                      ,ALFARO                    
+302030725,301007, ,20300204,00000,JOSE MIGUEL                   ,ACUÑA                     ,SALAS                     
+302030727,301027, ,20300204,00000,NURIA MARIA                   ,RODRIGUEZ                 ,BOLAÑOS                   
+302030728,301001, ,20260202,00000,GEORGINA                      ,PEREZ                     ,MATAMOROS                 
+302030731,301027, ,20260330,00000,RICARDO                       ,QUESADA                   ,MOLINA                    
+302030734,301001, ,20300204,00000,MARIA CECILIA                 ,MASIS                     ,ALVARADO                  
+302030737,301030, ,20270123,00000,RODRIGO ALBERTO               ,SANABRIA                  ,BRENES                    
+302030747,301003, ,20260512,00000,ANA MARTINA                   ,AGUILAR                   ,RIVERA                    
+302030757,301031, ,20300204,00000,FELIPE                        ,ALFARO                    ,FLORES                    
+302030759,301011, ,20231030,00000,ELIECER                       ,MARTINEZ                  ,NAVARRO                   
+302030762,301028, ,20280220,00000,CLARA                         ,ROMERO                    ,VARGAS                    
+302030764,301011, ,20220331,00000,MARIA ISABEL                  ,PICADO                    ,HERNANDEZ                 
+302030765,301011, ,20290123,00000,LUIS ABEL                     ,ARAYA                     ,BRENES                    
+302030776,301004, ,20280523,00000,RODRIGO HUMBERTO              ,HERNANDEZ                 ,AGUILAR                   
+302030781,301017, ,20290122,00000,MIGUEL                        ,GARITA                    ,GOMEZ                     
+302030795,301029, ,20300204,00000,JAFETH                        ,VARGAS                    ,GARITA                    
+302030796,301021, ,20220430,00000,WILLIAM                       ,ROMERO                    ,SALAZAR                   
+302030799,301005, ,20320202,00000,EDGAR GERARDO                 ,MADRIZ                    ,MORA                      
+302030800,301031, ,20270111,00000,LINO ALFONSO                  ,TORRES                    ,RAMIREZ                   
+302030806,301028, ,20280410,00000,MARIA ODILIA                  ,QUIROS                    ,QUIROS                    
+302030809,301019, ,20220704,00000,YAMILETH                      ,CORDERO                   ,ARCE                      
+302030810,301017, ,20240918,00000,ISMAEL                        ,FLORES                    ,SANCHEZ                   
+302030822,301006, ,20270322,00000,NOEMY                         ,HERNANDEZ                 ,TORRES                    
+302030824,301004, ,20220410,00000,MARLENE                       ,MEZA                      ,DURAN                     
+302030830,301005, ,20281001,00000,GILBERT                       ,RAMIREZ                   ,VARELA                    
+302030838,301008, ,20220531,00000,FLOR MARIA                    ,ROJAS                     ,PORTUGUEZ                 
+302030853,301031, ,20280207,00000,NELSI MARIA                   ,CORDERO                   ,SOTO                      
+302030859,301002, ,20290131,00000,RONALD GERARDO                ,MARTINEZ                  ,SALAZAR                   
+302030866,301017, ,20270314,00000,FLORA LIDIA                   ,MOLINA                    ,VIQUEZ                    
+302030877,301001, ,20280324,00000,CARLOS                        ,SOLANO                    ,BRENES                    
+302030890,301029, ,20270120,00000,CARLOS LUIS                   ,QUESADA                   ,SERRANO                   
+302030893,301007, ,20280207,00000,GEORGINA                      ,MUÑOZ                     ,ACUÑA                     
+302030896,301017, ,20220430,00000,MARIA DEL ROCIO               ,GOMEZ                     ,ACUÑA                     
+302030897,301017, ,20320202,00000,LASTENIA                      ,GOMEZ                     ,VIQUEZ                    
+302030898,301028, ,20320202,00000,MARIA DEL ROSARIO             ,ZUÑIGA                    ,VIQUEZ                    
+302030903,301028, ,20270207,00000,FRANCO EDELBERTO              ,QUIROS                    ,GONZALEZ                  
+302030913,301002, ,20280207,00000,EDGAR EVELIO                  ,RIVERA                    ,PEREIRA                   
+302030924,301004, ,20320202,00000,RICARDO                       ,NAVARRO                   ,DELGADO                   
+302030926,301003, ,20220430,00000,LUIS RAMIRO                   ,RAMIREZ                   ,PEREZ                     
+302030928,301001, ,20220531,00000,MARIA DELIA                   ,ARAYA                     ,MENDEZ                    
+302030934,301001, ,20221012,00000,CARLOS ALBERTO                ,CALVO                     ,SOTO                      
+302030937,301001, ,20301028,00000,MARIA DE LOS ANGELES          ,CALVO                     ,SOTO                      
+302030944,301027, ,20280207,00000,ARGENTINA                     ,SOLIS                     ,BARAHONA                  
+302030947,301020, ,20220531,00000,ZENEIDA                       ,MORALES                   ,BRENES                    
+302030948,301026, ,20300204,00000,MARTIN                        ,GONZALEZ                  ,GUZMAN                    
+302030954,301007, ,20300204,00000,EDGAR ANIBAL                  ,AGUILAR                   ,ROJAS                     
+302030974,301007, ,20320202,00000,GERARDO                       ,NAVARRO                   ,MARTINEZ                  
+302030975,301011, ,20300204,00000,LUIS ALBERTO                  ,BRENES                    ,ORTEGA                    
+302030977,301015, ,20250713,00000,RAFAEL                        ,JIMENEZ                   ,NAVARRO                   
+302030987,301011, ,20270222,00000,BETULIO                       ,NAVARRO                   ,JIMENEZ                   
+302030992,301004, ,20250804,00000,ANA MARIA                     ,SEGURA                    ,MONTOYA                   
+302040031,301028, ,20260727,00000,CARLOS ANTONIO                ,BRENES                    ,SOLANO                    
+302040041,301024, ,20280207,00000,LUZ MARINA                    ,ARAYA                     ,SANCHEZ                   
+302040069,301023, ,20280207,00000,DIGNA                         ,ARAYA                     ,HERNANDEZ                 
+302040085,301005, ,20260202,00000,LUIS GERARDO                  ,ARAYA                     ,COTO                      
+302040088,301018, ,20230108,00000,MARIA DEL CARMEN              ,TORRES                    ,ARCE                      
+302040131,301023, ,20280207,00000,ALVARO                        ,SANCHEZ                   ,SANCHEZ                   
+302040142,301017, ,20280214,00000,ROSA MARIA                    ,AGUILAR                   ,VIQUEZ                    
+302040163,301024, ,20300204,00000,JOSE ANTONIO                  ,SERRANO                   ,ARCE                      
+302040169,301001, ,20221205,00000,LUZ MARIA                     ,QUIROS                    ,QUIROS                    
+302040181,301002, ,20300319,00000,GERARDO ANTONIO               ,SERRANO                   ,VALERIN                   
+302040184,301001, ,20290107,00000,JUAN GERARDO                  ,MATAMOROS                 ,JIMENEZ                   
+302040218,301022, ,20240130,00000,PABLO MARTIN                  ,HIDALGO                   ,FONSECA                   
+302040236,301028, ,20280207,00000,ALFONSO                       ,ROSAS                     ,VARELA                    
+302040248,301027, ,20320202,00000,IRMA                          ,CHAVES                    ,GONZALEZ                  
+302040269,301002, ,20301027,00000,FERNANDO ANTONIO              ,ALFARO                    ,ELIZONDO                  
+302040270,301002, ,20261117,00000,ALFREDO                       ,GRANADOS                  ,SOLANO                    
+302040272,301002, ,20300204,00000,DAISY MARIA                   ,ALFARO                    ,ELIZONDO                  
+302040273,301027, ,20240102,00000,RODOLFO                       ,CHAVES                    ,ARAYA                     
+302040276,301002, ,20300204,00000,HANNIA SIONI                  ,BARQUERO                  ,GONZALEZ                  
+302040278,301027, ,20300204,00000,ANA VICTORIA                  ,BARQUERO                  ,COTO                      
+302040284,301025, ,20300221,00000,JOSE RAFAEL                   ,CERDAS                    ,ROJAS   
+503310368,501003, ,20281206,00000,CINDY DE LOS ANGELES          ,MORALES                   ,ALVARADO                  
+503310373,501022, ,20261121,00000,DIEGO ARMANDO                 ,MENDOZA                   ,GUEVARA                   
+503310379,501021, ,20300204,00000,EBERTO                        ,ACEVEDO                   ,ERAS                      
+503310380,501016, ,20290102,00000,MILADYS DE LOS ANGELES        ,PICON                     ,PICON                     
+503310381,501009, ,20301127,00000,VICTOR EDUARDO                ,ARIAS                     ,OPORTO                    
+503310384,501001, ,20300204,00000,OBED EDUARDO                  ,MENDOZA                   ,TABLADA                   
+503310386,501016, ,20261128,00000,MARIA GABRIELA                ,MORALES                   ,VICTOR                    
+503310391,501014, ,20240324,00000,ROSALBA                       ,DIAZ                      ,BUSTOS                    
+503310392,501015, ,20300204,00000,YERLIN VANESSA                ,RODRIGUEZ                 ,RODRIGUEZ                 
+503310406,501004, ,20300204,00000,MILTON LIM                    ,PICHARDO                  ,GUADAMUZ                  
+503310436,501023, ,20260202,00000,KAREN MARIA                   ,VILLALOBOS                ,RODRIGUEZ                 
+503310441,501003, ,20301207,00000,JAVIER ANTONIO                ,FERNANDEZ                 ,DUARTE                    
+503310447,501013, ,20270208,00000,JUAN RAFAEL                   ,FERNANDEZ                 ,MEDINA                    
+503310462,501001, ,20260624,00000,EVELYN                        ,CONTRERAS                 ,CONTRERAS                 
+503310484,501001, ,20260719,00000,MARCELA                       ,FERNANDEZ                 ,ZUÑIGA                    
+503310485,501021, ,20300623,00000,JENNIFER                      ,VARGAS                    ,VILLEGAS                  
+503310517,501015, ,20270329,00000,ALONSO                        ,MORALES                   ,CASTAÑEDA                 
+503310524,501021, ,20281017,00000,JUAN MANUEL                   ,RUIZ                      ,MARTINEZ                  
+503310529,501016, ,20280302,00000,JOSE MARLON                   ,JIMENEZ                   ,VARGAS                    
+503310533,501020, ,20320202,00000,LUIS FERNANDO                 ,PEREZ                     ,MORALES                   
+503310535,501001, ,20280525,00000,JUKEON ALEJANDRO              ,LI                        ,CUBILLO                   
+503310538,501023, ,20281113,00000,NIBETH VANESSA                ,TORRES                    ,BELLIDO                   
+503310539,501001, ,20290102,00000,SHELBY                        ,CORRALES                  ,LARA                      
+503310540,501023, ,20320202,00000,MINOR ANTONIO                 ,MARCHENA                  ,ESPINOZA                  
+503310542,501021, ,20320202,00000,CARLOS ALBERTO                ,OBANDO                    ,VILLEGAS                  
+503310544,501015, ,20300204,00000,ROANY                         ,SALAS                     ,SOTELA                    
+503310548,501015, ,20300204,00000,JORGE ENRIQUE                 ,ROMERO                    ,DIAZ                      
+503310581,501019, ,20300204,00000,MARTA ELENA                   ,PAZOS                     ,AGUIRRE                   
+503310582,501015, ,20220228,00000,MARIA ALEXANDRA               ,MONTIEL                   ,CUBILLO                   
+503310583,501014, ,20260913,00000,EINER ANTONIO                 ,RODRIGUEZ                 ,RIVAS                     
+503310587,501016, ,20300210,00000,ELBA LISSETH                  ,ORTEGA                    ,CORTES                    
+503310589,501001, ,20300204,00000,ELIECER ANTONIO               ,CERRATO                   ,OBANDO                    
+503310591,501002, ,20320202,00000,ANA MILEYDI                   ,URBINA                    ,CASTAÑEDA                 
+503310593,501016, ,20250323,00000,JOSE ANTONIO                  ,PEREZ                     ,BORGE                     
+503310596,501014, ,20300204,00000,EMELY PATRICIA                ,SOTELA                    ,HERNANDEZ                 
+503310597,501001, ,20270220,00000,MELISSA                       ,ARAYA                     ,MEDINA                    
+503310598,501014, ,20300204,00000,RAQUEL YESENIA                ,WHITE                     ,RODRIGUEZ                 
+503310599,501021, ,20260706,00000,GINA EMERITA                  ,DELGADO                   ,BARQUERO                  
+503310600,501015, ,20260202,00000,KENNETH                       ,RODRIGUEZ                 ,PERAZA                    
+503310602,501001, ,20220228,00000,BIBIANA                       ,VEGA                      ,BARRANTES                 
+503310623,501001, ,20250529,00000,MAGDALENA                     ,DIAZ                      ,LOPEZ                     
+503310651,501015, ,20300204,00000,KEYLOR ANTONIO                ,ALVAREZ                   ,JUAREZ                    
+503310659,501023, ,20300204,00000,FRANCIS MARIA                 ,ROJAS                     ,ROMERO                    
+503310665,501015, ,20300204,00000,RAFAEL ANGEL                  ,TALAVERA                  ,OBANDO                    
+503310671,501021, ,20300204,00000,HEIDY                         ,MARTINEZ                  ,GAMBOA                    
+503310678,501016, ,20300626,00000,ZAYDA PATRICIA                ,MARTINEZ                  ,VIALES                    
+503310679,501016, ,20280207,00000,HEYNNER ANTONIO               ,ALVARADO                  ,MENDEZ                    
+503310681,501004, ,20270214,00000,CHRISTIAN ANTONIO             ,CHAVARRIA                 ,HURTADO                   
+503310683,501019, ,20300826,00000,MARJORIE                      ,RODRIGUEZ                 ,CHAVARRIA                 
+503310694,501021, ,20300303,00000,NORMA IRIS                    ,OPORTA                    ,LARA                      
+503310696,501020, ,20280821,00000,EDWIN JACINTO                 ,PEREZ                     ,PEREZ                     
+503310698,501002, ,20220531,00000,GLORIANA                      ,PANIAGUA                  ,CASTAÑEDA                 
+503310709,501016, ,20300204,00000,ALEXANDER EDUARDO             ,SEQUEIRA                  ,GONZALEZ                  
+503310716,501003, ,20261205,00000,FRANCISCO JOSE                ,MARTINEZ                  ,MORALES                   
+503310749,501016, ,20280331,00000,DAWIDER                       ,ZUÑIGA                    ,ANGULO                    
+503310751,501015, ,20270118,00000,VICTOR GERARDO                ,VILLARREAL                ,BELLIDO                   
+503310753,501023, ,20280207,00000,CARLOS ALBERTO                ,ZAPATA                    ,GUADAMUZ                  
+503310758,501016, ,20260202,00000,CAROLINA                      ,CASTRO                    ,JUAREZ                    
+503310759,501021, ,20240919,00000,GREIVIN ARNOLDO               ,SANCHEZ                   ,UGALDE                    
+503310764,501015, ,20300313,00000,GEIMY GERARDO                 ,ALVARADO                  ,ALVARADO                  
+503310766,501005, ,20240904,00000,ESTEBAN FRANCISCO             ,MAIETTA                   ,ALVARADO                  
+503310787,501016, ,20270123,00000,JUAN CARLOS                   ,GARCIA                    ,GARCIA                    
+503310796,501001, ,20320202,00000,FRANCELA VANESSA              ,PONCE                     ,CAMARENO                  
+503310821,501001, ,20220228,00000,SOL                           ,LAM                       ,SHU                       
+503310823,501016, ,20300204,00000,JUAN CARLOS                   ,JIMENEZ                   ,VEGA                      
+503310830,501021, ,20280207,00000,ANDREINA                      ,OLIVARES                  ,CENTENO                   
+503310832,501021, ,20260202,00000,FEDERICO ALEJANDRO            ,VILLARREAL                ,CAMPOS                    
+503310833,501016, ,20250721,00000,JAVIER JOSE                   ,SANDOVAL                  ,GAITAN                    
+503310834,501016, ,20280612,00000,ANA MARIELA                   ,CAMARENO                  ,MONTOYA                   
+503310852,501016, ,20240506,00000,OMAR VENTURA                  ,GUTIERREZ                 ,PONCE                     
+503310854,501014, ,20260902,00000,KAREN MELISSA                 ,CUBILLO                   ,MARTINEZ                  
+503310860,501021, ,20260211,00000,ZEIRY                         ,CHAVARRIA                 ,NARVAEZ                   
+503310881,501014, ,20280918,00000,OLGER ENRIQUE                 ,MUÑOZ                     ,GONZALEZ                  
+503310889,501015, ,20220630,00000,JAVIER ALFONSO                ,RIOS                      ,PERAZA                    
+503310892,501021, ,20300204,00000,ROSALYN                       ,RUIZ                      ,MEDRANO                   
+503310897,501016, ,20280207,00000,LUCY PATRICIA                 ,CHAVARRIA                 ,BONILLA                   
+503310903,501016, ,20280207,00000,BIBIANA                       ,BONILLA                   ,RUIZ                      
+503310908,501016, ,20280907,00000,TEYLON ALEJANDRO              ,LUNA                      ,GARCIA                    
+503310914,501014, ,20280518,00000,LUIS ROBERTO                  ,CORONADO                  ,CORONADO                  
+503310918,501015, ,20300204,00000,ANGELA SUSANA                 ,ZEBALLOS                  ,PONCE                     
+503310940,501016, ,20281207,00000,HILDA                         ,GONZALEZ                  ,TICAY                     
+503310950,501015, ,20300908,00000,GERMAN DE JESUS               ,CARVAJAL                  ,RODRIGUEZ                 
+503310953,501016, ,20220502,00000,KEMBLY DAYANA                 ,HERNANDEZ                 ,FAJARDO                   
+503310972,501015, ,20310129,00000,OLGER AUGUSTO                 ,ORTEGA                    ,CHEVEZ                    
+503310974,501015, ,20270517,00000,ROSE MARY                     ,MORAGA                    ,ALVARADO                  
+503310975,501014, ,20300204,00000,MARJORIE DE LOS ANGELES       ,MIRANDA                   ,SEGURA                    
+503320016,501002, ,20300304,00000,MAURICIO                      ,RODRIGUEZ                 ,JIMENEZ                   
+503320018,501021, ,20250413,00000,GUSTAVO ALONSO                ,ARIAS                     ,RIVAS                     
+503320057,501016, ,20230405,00000,BERNARDO CARLOS               ,MENDOZA                   ,TORRES 
+401460661,401003, ,20300204,00000,CARMEN MARIA                  ,ZUMBADO                   ,MURILLO                   
+401460662,401003, ,20261220,00000,ANA PATRICIA                  ,RAMIREZ                   ,VARGAS                    
+401460667,401001, ,20230923,00000,GISELLE                       ,ORTIZ                     ,CAMPOS                    
+401460674,401015, ,20300204,00000,ANA LUCIA                     ,ESQUIVEL                  ,VILLALOBOS                
+401460676,401006, ,20220508,00000,JUAN RAMON                    ,GONZALEZ                  ,SOLIS                     
+401460678,401006, ,20250720,00000,JEANNETTE                     ,VARELA                    ,BONILLA                   
+401460679,401001, ,20301028,00000,TERESITA                      ,VIQUEZ                    ,SANCHEZ                   
+401460680,401001, ,20230220,00000,LUIS MARIANO                  ,VIQUEZ                    ,SANCHEZ                   
+401460681,401001, ,20250310,00000,YADIRA VIRGINIA               ,VIQUEZ                    ,SANCHEZ                   
+401460693,401003, ,20240602,00000,SEIDY                         ,MARTINEZ                  ,RODRIGUEZ                 
+401460705,401005, ,20230821,00000,MARIO                         ,AGUILAR                   ,PICADO                    
+401460717,401006, ,20280301,00000,LIGIA MARIA                   ,ARIAS                     ,ESPINOZA                  
+401460729,401005, ,20300204,00000,HENRY ANTONIO                 ,DELGADO                   ,ACOSTA                    
+401460730,401005, ,20280807,00000,ORLANDO                       ,ACOSTA                    ,ALFARO                    
+401460732,401003, ,20250622,00000,JOHNNY                        ,ULATE                     ,ALFARO                    
+401460733,401005, ,20280207,00000,OLGA MARTA                    ,LOPEZ                     ,SALAZAR                   
+401460741,401010, ,20221127,00000,MARJORIE NASSIRA              ,VALVERDE                  ,RIVERA                    
+401460754,401004, ,20250224,00000,MARTA EUGENIA                 ,ALVARADO                  ,ALVARADO                  
+401460761,401004, ,20240423,00000,WALTER ALBERTO                ,HERNANDEZ                 ,ULATE                     
+401460763,401003, ,20241121,00000,ANA VIRGINIA                  ,SEGNINI                   ,ZUMBADO                   
+401460768,401003, ,20220531,00000,DIONISIO                      ,VIQUEZ                    ,CAMPOS                    
+401460771,401001, ,20260920,00000,KATTIA                        ,CHAVES                    ,RAMIREZ                   
+401460774,401001, ,20280207,00000,JAVIER FRANCISCO              ,CHAVARRIA                 ,CHAVARRIA                 
+401460776,401017, ,20300204,00000,GILBERT                       ,LOPEZ                     ,ALVAREZ                   
+401460778,401001, ,20300204,00000,MARLENE                       ,RAMIREZ                   ,QUESADA                   
+401460779,401003, ,20280207,00000,CARLOS HUMBERTO               ,UGALDE                    ,CHAVARRIA                 
+401460789,401001, ,20240128,00000,JOSE FRANCISCO                ,VARGAS                    ,BENAVIDES                 
+401460805,401003, ,20270213,00000,ASDRUBAL                      ,MONTERO                   ,HERNANDEZ                 
+401460811,401005, ,20300929,00000,YORLEY MARCELA                ,SANCHEZ                   ,ULATE                     
+401460813,401001, ,20231021,00000,CARLOS ROLANDO                ,CHAVES                    ,PIEDRA                    
+401460815,401001, ,20280207,00000,FRANCISCO JAVIER              ,VILLALOBOS                ,SALAS                     
+401460838,401017, ,20240107,00000,MARIA ISABEL                  ,SOLIS                     ,SOTO                      
+401460841,401017, ,20280207,00000,JUAN JOSE                     ,ARCE                      ,MARTINEZ                  
+401460849,401003, ,20300204,00000,JOSE FRANCISCO                ,PROTTI                    ,CHAVES                    
+401460851,401001, ,20300602,00000,ROSA MARIA                    ,PROTTI                    ,CHAVES                    
+401460858,401003, ,20261216,00000,JOSE ALFREDO                  ,LEITON                    ,OVIEDO                    
+401460875,401001, ,20240306,00000,PERSI                         ,HERRERA                   ,BOLAÑOS                   
+401460876,401001, ,20280331,00000,JORGE LUIS                    ,ACOSTA                    ,GONZALEZ                  
+401460879,401006, ,20250416,00000,MYRIAM                        ,JARA                      ,GRANADOS                  
+401460887,401001, ,20240605,00000,WAGNER                        ,CAMPOS                    ,RAMIREZ                   
+401460890,401005, ,20300204,00000,CARLOS LUIS                   ,QUESADA                   ,ALVARADO                  
+401460892,401003, ,20240129,00000,HELEN                         ,HERRERA                   ,SOLIS                     
+401460904,401005, ,20300204,00000,CARLOS ALBERTO                ,VIQUEZ                    ,GARITA                    
+401460906,401009, ,20280515,00000,XINIA                         ,GONZALEZ                  ,ESPINOZA                  
+401460908,401004, ,20310114,00000,JORGE LUIS                    ,JIMENEZ                   ,GONZALEZ                  
+401460911,401010, ,20260929,00000,HENRY ENRIQUE                 ,VALVERDE                  ,LEPIZ                     
+401460912,401005, ,20280605,00000,ZAIDA PATRICIA                ,ARIAS                     ,UMAÑA                     
+401460918,401001, ,20230102,00000,ANA CRISTINA                  ,CAMACHO                   ,SANDOVAL                  
+401460920,401004, ,20280607,00000,ILIANA                        ,CHACON                    ,SANDOVAL                  
+401460928,401001, ,20300204,00000,ALEJANDRA                     ,ZAMORA                    ,ULATE                     
+401460929,401005, ,20250123,00000,FLOR DE MARIA                 ,ARCE                      ,SALAS                     
+401460931,401003, ,20300204,00000,EDWIN GERARDO                 ,MONTOYA                   ,OROZCO                    
+401460935,401004, ,20300204,00000,ILEANA MARIA                  ,HERRERA                   ,VARGAS                    
+401460936,401001, ,20240521,00000,MARIANELA                     ,PANIAGUA                  ,ARCE                      
+401460938,401007, ,20220531,00000,ALEIDA                        ,ARCE                      ,SOLANO                    
+401460939,401001, ,20250312,00000,MAGDALENA                     ,PALENZUELA                ,HERRERA                   
+401460945,401004, ,20290129,00000,BERTA NYDIA                   ,ARGUEDAS                  ,CAMPOS                    
+401460946,401001, ,20220430,00000,MANUEL ANTONIO                ,SANCHEZ                   ,ALVARADO                  
+401460949,401009, ,20300204,00000,ERIC WILBER                   ,BARRANTES                 ,AVILA                     
+401460961,401001, ,20220207,00000,GELBERTH                      ,LIZANO                    ,CHAVES                    
+401460963,401009, ,20230116,00000,ALEXANDER                     ,NUÑEZ                     ,ARCE                      
+401460967,401001, ,20241003,00000,MARIA ISABEL                  ,PARAJELES                 ,ULATE                     
+401460973,401006, ,20280724,00000,EDGAR ALBERTO                 ,ARAYA                     ,PORRAS                    
+401460974,401005, ,20290124,00000,ANA PATRICIA                  ,ARAYA                     ,PORRAS                    
+401460978,401001, ,20270425,00000,ROSEMARY                      ,MADRIGAL                  ,GARRO                     
+401460979,401001, ,20300513,00000,RONALD GERARDO                ,SOLIS                     ,ACUÑA                     
+401460981,401005, ,20300204,00000,MARIBELL                      ,GOMEZ                     ,GOMEZ                     
+401460982,401001, ,20230729,00000,SERGIO                        ,PICADO                    ,CASTRO                    
+401460994,401003, ,20221024,00000,ANA MARIA                     ,PERERA                    ,HERNANDEZ                 
+401460995,401006, ,20250320,00000,FREDDY                        ,CALDERON                  ,DELGADO                   
+401470024,401009, ,20300521,00000,PATRICIA                      ,AGUILAR                   ,SANCHEZ                   
+401470029,401004, ,20300311,00000,YAMILETH                      ,RAMIREZ                   ,VILLEGAS                  
+401470030,401001, ,20300901,00000,MINOR ALBERTO                 ,VASQUEZ                   ,GUILLEN                   
+401470032,401009, ,20260202,00000,LUIS FERNANDO                 ,SANCHO                    ,ARAYA                     
+401470037,401006, ,20301127,00000,LAURA YORLENY                 ,MIRANDA                   ,SANCHEZ                   
+401470040,401005, ,20281204,00000,RUBEN                         ,LEZAMA                    ,ULATE                     
+401470049,401003, ,20320202,00000,GISELLE                       ,ROJAS                     ,CAMPOS                    
+401470055,401001, ,20280306,00000,RICARDO                       ,HERNANDEZ                 ,GUZMAN                    
+401470062,401001, ,20230626,00000,MELQUISEDEC                   ,RODRIGUEZ                 ,RAMIREZ                   
+401470069,401001, ,20320202,00000,KATYA MARIA                   ,ARGUEDAS                  ,LEPIZ                     
+401470074,401003, ,20280810,00000,MARIO ALEXANDER               ,ARGUEDAS                  ,GAMBOA                    
+401470079,401005, ,20290129,00000,ALEXIS                        ,MATAMOROS                 ,BONILLA                   
+401470083,401001, ,20231008,00000,JUAN JOSE                     ,ALFARO                    ,VALERIO                   
+401470091,401004, ,20250512,00000,VERA ROCIO                    ,MURILLO                   ,SOLIS                     
+401470092,401001, ,20220228,00000,VILMA MARIA                   ,ACUÑA                     ,VEGA                      
+401470095,401010, ,20270504,00000,WILLIAM                       ,CALVO                     ,CORDOBA                   
+401470097,401001, ,20320202,00000,MIGUEL                        ,RODRIGUEZ                 ,ALFARO                    
+401470101,401001, ,20300204,00000,MARCO TULIO                   ,HERRERA                   ,BOGANTES                  
+401470103,401004, ,20250611,00000,IVANNIA LUCRECIA              ,CARBALLO                  ,CASTRO                    
+401470105,401001, ,20270316,00000,ALBA MAYELA                   ,SANCHEZ                   ,DELGADO                   
+401470107,401009, ,20280207,00000,ROSA ICELA                    ,PORTUGUEZ                 ,VEGA                      
+401470118,401005, ,20280331,00000,MARVIN LIDIER                 ,SOLANO                    ,CHAVES                    
+401470135,401003, ,20270426,00000,ROSA ICELA                    ,VEGA                      ,VARGAS                    
+401470144,401003, ,20300204,00000,MANUEL GONZALO                ,DE LA O                   ,GARCIA                    
+401470145,401017, ,20280328,00000,ELIECER                       ,BRENES                    ,CHAVES                    
+401470153,401005, ,20300204,00000,FRANCISCO                     ,CAMPOS                    ,BAUTISTA                  
+401470154,401001, ,20280619,00000,MARIA DEL ROCIO               ,GOMEZ                     ,OVIEDO                    
+401470155,401003, ,20310128,00000,FRANCISCO ARTURO              ,GONZALEZ                  ,GRAJALES                  
+401470165,401006, ,20250518,00000,VINICIO ALBERTO               ,GONZALEZ                  ,BOLAÑOS                   
+401470176,401003, ,20240611,00000,CYNTHIA MARCELA               ,GARITA                    ,HERNANDEZ                 
+401470193,401010, ,20270217,00000,YALILE                        ,CASCANTE                  ,QUESADA                   
+401470211,401003, ,20280207,00000,ANA CLARA                     ,ARRIETA                   ,DELGADO                   
+401470214,401003, ,20280207,00000,SANDRA EUGENIA                ,LOPEZ                     ,MORA                      
+401470216,401005, ,20220430,00000,EUGENIA                       ,MENA                      ,COTO                      
+401470219,401006, ,20280207,00000,YORLENY                       ,SALAS                     ,ALVARADO                  
+401470220,401017, ,20280321,00000,ALEXANDRA                     ,SALAS                     ,CAMACHO                   
+401470224,401001, ,20270227,00000,RAFAEL ANGEL                  ,COTO                      ,ELIZONDO                  
+401470232,401006, ,20220928,00000,MARIA DE LOS ANGELES          ,ULATE                     ,BARQUERO                  
+401470237,401004, ,20220418,00000,MAURICIO                      ,ARCE                      ,RAMIREZ                   
+401470243,401003, ,20300204,00000,FREDDY                        ,ZAMORA                    ,SANCHEZ                   
+401470248,401001, ,20280713,00000,ROGER ALBERTO                 ,CORTES                    ,MADRIGAL                  
+401470257,401006, ,20290122,00000,MARICEL                       ,SOLIS                     ,MORA                      
+401470264,401015, ,20260720,00000,YAMILETH                      ,SANCHEZ                   ,SEGURA                    
+401470266,401007, ,20230808,00000,MARIA ELENA                   ,HERRERA                   ,MONTERO                   
+401470271,401007, ,20301110,00000,HUBERT                        ,MEZA                      ,QUESADA                   
+401470272,401001, ,20270113,00000,NIDIA DAMARIS                 ,SMITH                     ,CASTRO                    
+401470275,401001, ,20230412,00000,ROXANA YADIRA                 ,ULATE                     ,ARAYA                     
+401470278,401017, ,20300204,00000,JOSE GUILLERMO                ,CASTILLO                  ,RAMIREZ                   
+401470282,401001, ,20220228,00000,ANA NIDIA                     ,CHAVES                    ,LEPIZ                     
+401470289,401001, ,20260202,00000,EDUARDO                       ,MONTERO                   ,GONZALEZ                  
+401470301,401005, ,20260822,00000,HILDA MARIA                   ,HIDALGO                   ,VILLANUEVA                
+401470314,401003, ,20260726,00000,MARIA DEL ROSARIO             ,GARITA                    ,SEGURA                    
+401470321,401005, ,20300204,00000,MARJORIE                      ,DE LA O                   ,BARRANTES                 
+401470322,401003, ,20220228,00000,IRIS VIRGINIA                 ,RODRIGUEZ                 ,BOGANTES                  
+401470324,401004, ,20250629,00000,MERLIN                        ,BOLAÑOS                   ,MURILLO                   
+401470328,401004, ,20300204,00000,NORMA PATRICIA                ,ESQUIVEL                  ,BRENES                    
+401470345,401005, ,20260708,00000,EDUARDO FRANCISCO             ,CAMPOS                    ,SANCHEZ                   
+401470347,401006, ,20281120,00000,FRANCISCO JAVIER              ,VARGAS                    ,UMAÑA                     
+401470355,401001, ,20300204,00000,MAURICIO                      ,VILLALOBOS                ,RAMIREZ                   
+401470358,401005, ,20270130,00000,ALBA TERESA                   ,SANTAMARIA                ,SANCHEZ                   
+401470362,401005, ,20230618,00000,KATTIA                        ,SAENZ                     ,BENAVIDES                 
+401470366,401001, ,20250514,00000,IRENE CRISTINA                ,OCAMPO                    ,CAMACHO                   
+401470368,401009, ,20270518,00000,RONNY                         ,FLORES                    ,VARGAS                    
+401470372,401003, ,20220228,00000,KATTIA                        ,ARCE                      ,RAMIREZ                   
+401470381,401001, ,20300204,00000,EVELYN                        ,RAMIREZ                   ,RAMIREZ                   
+401470406,401006, ,20280301,00000,MARCO ANTONIO                 ,BARQUERO                  ,BRENES                    
+401470412,401005, ,20300204,00000,OSCAR MARTIN                  ,HERRERA                   ,VARGAS                    
+401470422,401005, ,20300204,00000,EDGAR EDUARDO                 ,MORALES                   ,CAMPOS                    
+401470423,401004, ,20221009,00000,MARVIN RODOLFO                ,DELGADO                   ,DELGADO                   
+401470430,401005, ,20300319,00000,MARVIN GERARDO                ,GARRO                     ,MIRANDA                   
+401470431,401005, ,20230828,00000,MILENE                        ,BOGANTES                  ,MOREIRA                   
+401470435,401001, ,20261208,00000,ANA PATRICIA                  ,AGUILAR                   ,GARCIA                    
+401470440,401003, ,20240609,00000,LUIS ENRIQUE                  ,RAMIREZ                   ,VIQUEZ                    
+401470442,401001, ,20240812,00000,CARLOS HUGO                   ,HIDALGO                   ,CORRALES                  
+401470449,401017, ,20260407,00000,JORGE ALBERTO                 ,ALFARO                    ,DELGADO                   
+401470460,401004, ,20300204,00000,MANUEL ANTONIO                ,MONTOYA                   ,ESPINOZA                  
+401470461,401001, ,20300423,00000,RODRIGO                       ,SANTAMARIA                ,GUILLEN                   
+401470462,401001, ,20300204,00000,JORGE LUIS                    ,SEGURA                    ,TORRES                    
+401470463,401001, ,20281105,00000,ANA PATRICIA                  ,CARBALLO                  ,BARQUERO                  
+401470467,401001, ,20260209,00000,MARIA DE LOS ANGELES          ,ZAMORA                    ,VILLALOBOS                
+401470472,401001, ,20300204,00000,ANA YANCI                     ,HERNANDEZ                 ,VALERIO                   
+401470477,401001, ,20231120,00000,GEOVANNY EUGENIO              ,TOPPIN                    ,LOBO                      
+401470484,401001, ,20280906,00000,MARIA DE LOS ANGELES          ,SANTOS                    ,GARITA                    
+401470485,401006, ,20230214,00000,PATRICIA                      ,UGALDE                    ,CORTES                    
+401470492,401007, ,20270314,00000,ALEXIS                        ,MORERA                    ,ESQUIVEL                  
+401470494,401003, ,20300204,00000,EDUARDO ENRIQUE               ,CARBALLO                  ,RAMIREZ                   
+401470497,401005, ,20320202,00000,MARCO                         ,MORALES                   ,GARITA                    
+401470528,401001, ,20240701,00000,ROCIO                         ,GONZALEZ                  ,SANCHEZ                   
+401470537,401009, ,20300311,00000,CARMEN YANORI                 ,VALERIO                   ,CALDERON                  
+401470540,401005, ,20240514,00000,ANA LUCIA                     ,CHAVARRIA                 ,MEJIA                     
+401470543,401005, ,20270201,00000,GERARDO ENRIQUE               ,DELGADO                   ,FONSECA                   
+401470546,401001, ,20320202,00000,KATTIA ISABEL                 ,QUESADA                   ,GAMBOA                    
+401470559,401006, ,20301201,00000,ANADILIA                      ,ACUÑA                     ,SALAS                     
+701950441,701028, ,20320202,00000,KATIA CAROLINA                ,VALERIN                   ,LOPEZ                     
+701950442,701014, ,20280207,00000,NELSY VANESSA                 ,MORA                      ,MONTERO                   
+701950443,701001, ,20260930,00000,CHRISTOPHER JUNIOR            ,MENDEZ                    ,SANCHEZ                   
+701950445,701030, ,20280207,00000,FIORELA DANESSA               ,UMAÑA                     ,RUIZ                      
+701950452,701023, ,20300204,00000,HENRY ANTONIO                 ,GUTIERREZ                 ,DOUGLAS                   
+701950476,701039, ,20320202,00000,MARIA DEL MILAGRO             ,RAMIREZ                   ,ZUÑIGA                    
+701950479,701039, ,20280207,00000,DONALD ALBERTO                ,LOPEZ                     ,CHAVES                    
+701950483,701013, ,20230916,00000,EDUARDO RAMON                 ,RODRIGUEZ                 ,MELENDEZ                  
+701950485,701028, ,20300807,00000,KEVIN JOAQUIN                 ,LOPEZ                     ,MULLINGS                  
+701950487,701022, ,20280409,00000,KEYLOR                        ,MELENDEZ                  ,CHEVEZ                    
+701950491,701027, ,20280926,00000,JEISON GILBERTO               ,JOHNES                    ,BARRANTES                 
+701950492,701014, ,20240513,00000,MARIANA REBECA                ,PRICE                     ,GARCIA                    
+701950493,701024, ,20280207,00000,HELBER                        ,VILLEGAS                  ,LOAICIGA                  
+701950500,701001, ,20240403,00000,KENNY DANIELA                 ,FALLAS                    ,CHACON                    
+701950506,701029, ,20280207,00000,EFRAIN JOSUE                  ,OBREGON                   ,ORTEGA                    
+701950508,701003, ,20231010,00000,HEINER MIGUEL                 ,VARGAS                    ,UGALDE                    
+701950509,701003, ,20270505,00000,YOCELYN                       ,SCOTT                     ,PEREZ                     
+701950513,701013, ,20280207,00000,GELGIE LIANA                  ,MC KENZIE                 ,PINNOCK                   
+701950514,701013, ,20300204,00000,LUIS FELIPE                   ,ODIO                      ,FERRERA                   
+701950516,701013, ,20280220,00000,SOLANGIE ANDREA               ,WANCHOPE                  ,SPARKS                    
+701950525,701009, ,20240312,00000,JACQUELINE ALEJANDRA          ,MEJIA                     ,CASTILLO                  
+701950646,701039, ,20261018,00000,NICIA NIKIYA                  ,MORGAN                    ,WILSON                    
+701950647,701030, ,20300427,00000,KERLIN DE LOS ANGELES         ,CANO                      ,CESPEDES                  
+701950650,701039, ,20280618,00000,REINA LUCIA                   ,QUINTANILLA               ,ESTRADA                   
+701950651,701005, ,20240331,00000,LIDIANET LUCIA                ,LEWIS                     ,ROMERO                    
+701950654,701023, ,20300316,00000,ANGELO ALBERTO                ,FERNANDEZ                 ,MENA                      
+701950659,701002, ,20320202,00000,JORGE ADOLFO                  ,OROZCO                    ,COULSON                   
+701950665,701019, ,20240306,00000,MEYLIN PRISCILLA              ,URTECHO                   ,ZUÑIGA                    
+701950671,701001, ,20220228,00000,MACIEL MELINA                 ,LOAIZA                    ,PEREZ                     
+701950675,701041, ,20300605,00000,JONATHAN                      ,GUTIERREZ                 ,GRAJAL                    
+701950676,701019, ,20270330,00000,LUIS ESTEBAN                  ,PION                      ,ALVAREZ                   
+701950681,701001, ,20320202,00000,WENDOLYN DIANURIA             ,PINNOCK                   ,ALEXANDER                 
+701950683,701006, ,20300204,00000,MEYDELIN ROCIO                ,ARCEYUT                   ,PEREZ                     
+701950684,701014, ,20280207,00000,YORGENS ANDREY                ,CAMPOS                    ,ROBLES                    
+701950685,701019, ,20260916,00000,FARIDE DE LOS ANGELES         ,BARAHONA                  ,SOLIS                     
+701950686,701039, ,20300204,00000,YENDRY VANESSA                ,VARELA                    ,MARTINEZ                  
+701950689,701040, ,20300204,00000,KENNETH XAVIER                ,RODRIGUEZ                 ,JIMENEZ                   
+701950692,701028, ,20301016,00000,JEISON RICARDO                ,DIAZ                      ,ST CLAIR                  
+701950694,701001, ,20300204,00000,ARMONY KARENE                 ,HODGSON                   ,JAENTSCHKE                
+701950695,701002, ,20230212,00000,SANDRA ISABEL                 ,GONZALEZ                  ,CALDERON                  
+701950718,701037, ,20320202,00000,WALTER ALONSO                 ,ZUÑIGA                    ,RODRIGUEZ                 
+701950747,701003, ,20290122,00000,ERIKA VANESSA                 ,GUTIERREZ                 ,JAEN                      
+701950754,701039, ,20270216,00000,VERONICA LORENA               ,GUILLEN                   ,ELIZONDO                  
+701950756,701014, ,20320202,00000,CARLOS EDUARDO                ,VALLADARES                ,CORTES                    
+701950758,701014, ,20320202,00000,ALLAN RAMON                   ,REYES                     ,CORTES                    
+701950765,701028, ,20280905,00000,HILARIO GABRIEL               ,BARRANTES                 ,JIRON                     
+701950769,701008, ,20280618,00000,AMBAR TAINA                   ,ARCE                      ,CHAVES                    
+701950770,701006, ,20250417,00000,WENDOLYN PATRICIA             ,MADRIGAL                  ,BEJARANO                  
+701950771,701039, ,20270116,00000,LUIS GUSTAVO                  ,PORRAS                    ,CASTRO                    
+701950818,701040, ,20280420,00000,EVERARDO                      ,FERNANDEZ                 ,MORALES                   
+701950859,701028, ,20300316,00000,KAREN YISNEY                  ,ALVAREZ                   ,VANEGAS                   
+701950866,701033, ,20301211,00000,DAGLICH ANTHONY               ,MEDINA                    ,LOPEZ                     
+701950867,701005, ,20280726,00000,MILADY                        ,FLETES                    ,QUIROS                    
+701950869,701001, ,20270509,00000,YAMILETH KEYSHIRA             ,SALAS                     ,MORGAN                    
+701950870,701001, ,20280308,00000,KRISTEL PAOLA                 ,ZAMORA                    ,BAYLIS                    
+701950874,701022, ,20280320,00000,JEFFRY JESUS                  ,MORALES                   ,SALAZAR                   
+701950878,701010, ,20300707,00000,FARIK YAKIRA                  ,LOBO                      ,DAVILA                    
+701950879,701011, ,20270123,00000,YEIMY PATRICIA                ,ESPINOZA                  ,ESTRADA                   
+701950880,701006, ,20300720,00000,JURGUEN                       ,GONZALEZ                  ,ZUÑIGA                    
+701950891,701030, ,20241014,00000,ELIZABETH YANORIE             ,CERDAS                    ,GOMEZ                     
+701950892,701030, ,20300204,00000,XINIA YANORIE                 ,CERDAS                    ,GOMEZ                     
+701950894,701046, ,20270207,00000,YADIRA JEANNETTE              ,LEAL                      ,RODRIGUEZ                 
+701950898,701023, ,20270516,00000,LYANNE CAROLINA               ,ALVARADO                  ,BARRANTES                 
+701950899,701023, ,20281107,00000,KAREN ARIANA                  ,MORALES                   ,HERNANDEZ                 
+701950900,701028, ,20300204,00000,JOSE LUIS                     ,CERDAS                    ,BALTODANO                 
+701950901,701028, ,20300204,00000,WIENNE ILIAN                  ,KNIGHT                    ,OBANDO                    
+701950903,701025, ,20290129,00000,ANELIS FERNANDA               ,ALVAREZ                   ,SANDOVAL                  
+701950908,701017, ,20300204,00000,SANTIAGO ALBERTO              ,JIMENEZ                   ,ARAYA                     
+701950927,701006, ,20280531,00000,KAREN STEPHANIE               ,HERNANDEZ                 ,ORTIZ                     
+701950967,701014, ,20280207,00000,YENSIE ALEJANDRA              ,ROJAS                     ,CAMPOS                    
+701950974,701014, ,20300204,00000,SUSANA ANGELICA               ,ROSALES                   ,ROJAS                     
+701950991,701019, ,20280605,00000,ALVARO JESUS                  ,BRENES                    ,GONZALEZ                  
+701950996,701023, ,20280207,00000,ANTONIO JOSE                  ,MARIN                     ,SOJO                      
+701960002,701028, ,20290102,00000,LUZ MARINA                    ,SEVILLA                   ,SOTO                      
+701960003,701041, ,20300204,00000,CARLOS ALFREDO                ,JIMENEZ                   ,MONGE                     
+701960008,701001, ,20280605,00000,EDVIN EDDER                   ,KELLY                     ,SIMPSON                   
+701960011,701028, ,20301026,00000,IRVIN REINALDO                ,BRICEÑO                   ,MULLINGS                  
+701960014,701014, ,20300204,00000,YERALDO JAFET                 ,QUIROS                    ,GOMEZ                     
+701960017,701014, ,20231204,00000,JOSE ANGEL                    ,PORRAS                    ,NUÑEZ                     
+701960018,701029, ,20270512,00000,JOSE LIBARDO                  ,DUARTE                    ,ALANIS                    
+701960019,701029, ,20280731,00000,ELIZABETH MARIA               ,ROSE                      ,GAYLE                     
+701960020,701014, ,20220630,00000,JULIO CESAR                   ,MATARRITA                 ,ORTEGA                    
+701960024,701018, ,20270330,00000,MARIELA                       ,ARAYA                     ,MELENDEZ                  
+701960027,701033, ,20270127,00000,JEAN LUIS                     ,CONDEGA                   ,MEDINA                    
+701960075,701008, ,20280213,00000,MARCO ANTONIO                 ,UMAÑA                     ,SOLANO                    
+701960077,701009, ,20281008,00000,GABRIEL ADOLFO                ,RAMIREZ                   ,CASTRILLO                 
+701960079,701013, ,20220907,00000,SHERLYN VANESSA               ,VAUGHNS                   ,LEWELL                    
+701960081,701006, ,20261114,00000,MAYLIN FANETH                 ,CALDERON                  ,MENDEZ                    
+701960082,701006, ,20280829,00000,JEREMY ELOY                   ,SANDOVAL                  ,ARRIETA                   
+701960088,701008, ,20300204,00000,GERARDO ARIEL                 ,BRENES                    ,WEST                      
+701960090,701005, ,20280426,00000,KEYRIN CAROLINA               ,CAMBELL                   ,MORALES                   
+701960091,701002, ,20220228,00000,KATHERINE                     ,OBREGON                   ,NUÑEZ                     
+701960092,701022, ,20221018,00000,MARIA CRISTINA                ,GARCIA                    ,MORALES                   
+701960093,701029, ,20300420,00000,JONATHAN                      ,DIXON                     ,MONJARREZ                 
+701960094,701032, ,20300928,00000,BLADIMIR FERNANDO             ,AMADOR                    ,CORTES                    
+701960096,701014, ,20280207,00000,KARLA VANESSA                 ,MARTINEZ                  ,MC ELROY                  
+701960098,701001, ,20281213,00000,SASHA ANDINA                  ,SCARLETT                  ,WILLIAMS                  
+701960101,701026, ,20280207,00000,DEIVID FABIAN                 ,SEQUEIRA                  ,RAMOS                     
+701960105,701026, ,20281031,00000,JUANITA                       ,CARRILLO                  ,RUGAMA                    
+701960106,701046, ,20300515,00000,GREIVIN MIGUEL                ,LOPEZ                     ,ALVARADO                  
+701960113,701037, ,20300204,00000,OMAR ALEXANDER                ,NOTICE                    ,MALTES                    
+701960114,701011, ,20300204,00000,JORGE RODOLFO                 ,ARIAS                     ,ARAYA                     
+701960118,701003, ,20241003,00000,EDWARD ANTHONY                ,MONGE                     ,BANTAN                    
+701960180,701006, ,20280207,00000,LASHANA KENISHA               ,WRIGHT                    ,WRIGHT                    
+701960187,701027, ,20280306,00000,JULIO CESAR                   ,CENTENO                   ,JIMENEZ                   
+701960188,701027, ,20300217,00000,MARIA DELFINA                 ,CENTENO                   ,JIMENEZ                   
+701960189,701028, ,20300204,00000,TATIANA                       ,RODRIGUEZ                 ,NOGUERA                   
+701960190,701006, ,20300228,00000,GABRIELA DE LOS ANGELES       ,CHAVES                    ,SANARRUSIA                
+701960192,701008, ,20280207,00000,RONALD ANDRES                 ,MORALES                   ,MATARRITA                 
+701960196,701006, ,20290123,00000,TASHANY TASHIRA               ,BROWN                     ,WATSON                    
+701960197,701013, ,20270525,00000,JERWIN ANTHONY                ,FERGUSON                  ,MORA                      
+701960200,701031, ,20300204,00000,VICTOR ANDREY                 ,CERDAS                    ,LEON                      
+701960201,701039, ,20280207,00000,JEFFERSON LESEPT              ,PETERKIN                  ,GAYLE                     
+701960207,701014, ,20290129,00000,XINIA MARIA                   ,GONZALEZ                  ,LUNA                      
+701960208,701006, ,20300204,00000,SUHEILY YANIN                 ,ALVARADO                  ,GONZALEZ                  
+701960221,701025, ,20300831,00000,LISLLIAM YANERIS              ,MONTES                    ,VENEGAS                   
+701960222,701010, ,20280207,00000,NORMA GABRIELA                ,AGUIRRE                   ,LOPEZ                     
+701960234,701013, ,20300204,00000,YORDANO ALBERTO               ,MONTERO                   ,TAYLOR                    
+701960235,701028, ,20280730,00000,VIVIAN ANDREA                 ,MORALES                   ,BRIONES                   
+701960237,701002, ,20250109,00000,KATHERINE JOHANA              ,CERDAS                    ,ZAVALETA                  
+701960244,701024, ,20290114,00000,ROBERTO MARTIN                ,AGUILAR                   ,MADRIGAL                  
+701960245,701046, ,20301012,00000,CARLOS ANTONIO                ,MOLINA                    ,MOLINA                    
+701960249,701001, ,20300204,00000,GREYSHELL MONIQUE             ,HILL                      ,CHRISTIE                  
+701960329,701017, ,20300220,00000,ALFERY ISAAC                  ,GOMEZ                     ,PEÑA                      
+701960330,701008, ,20250908,00000,SUYEE MANUELA                 ,ROBLES                    ,MADRIGAL                  
+701960334,701019, ,20261103,00000,TROY HAMSON                   ,JOSEPH                    ,OMIER                     
+701960335,701027, ,20241002,00000,MARIA MARIEL                  ,OBANDO                    ,MONTIEL                   
+701960336,701028, ,20300312,00000,FRANCIS FABIOLA               ,MADRIZ                    ,VALVERDE                  
+701960339,701002, ,20281126,00000,ARELIS TATIANA                ,ARAYA                     ,ZAMORA                    
+701960342,701008, ,20241014,00000,ANDY ALFONSO                  ,PRESIDA                   ,PONDLER                   
+701960343,701006, ,20320202,00000,DEIVER JAHAZIEL               ,HIDALGO                   ,CHING                     
+701960344,701006, ,20280821,00000,JEISON AARON                  ,MONCADA                   ,WILLIAMS                  
+701960347,701046, ,20280315,00000,LUCRECIA                      ,PIZARRO                   ,BENAVIDES                 
+701960349,701015, ,20281120,00000,DIANA MARIA                   ,MORALES                   ,IBARRA                    
+701960350,701014, ,20280208,00000,GABRIELA DE LOS ANGELES       ,BARBOZA                   ,CHAVARRIA                 
+701960351,701039, ,20280207,00000,TRUDITY AMAURI                ,GIVANS                    ,CLARK                     
+701960353,701014, ,20300204,00000,JESSICA ALEXANDRA             ,MESEN                     ,JIMENEZ                   
+701960354,701032, ,20281130,00000,KEYLOR                        ,ORTEGA                    ,QUIROS                    
+701960362,701004, ,20320202,00000,CESAR GUSTAVO                 ,SANCHO                    ,VALLADARES            
+602790936,601088, ,20241118,00000,NELSON JESUS                  ,VALENCIANO                ,CASTRO                    
+602790937,601086, ,20310106,00000,BERNAL EDGARDO                ,GONZALEZ                  ,NUÑEZ                     
+602790939,601088, ,20281218,00000,WILBER                        ,REYES                     ,GUADAMUZ                  
+602790945,601012, ,20320202,00000,HECTOR RUBEN                  ,JIMENEZ                   ,CAMARENO                  
+602790947,601101, ,20300204,00000,KENNETT                       ,CHACON                    ,ARAYA                     
+602790948,601025, ,20230606,00000,MARCOS ADRIAN                 ,MENDEZ                    ,SIBAJA                    
+602790951,601025, ,20280207,00000,HAYEN                         ,RODRIGUEZ                 ,CAMPOS                    
+602790952,601057, ,20280207,00000,ANA YANCY                     ,ROJAS                     ,ALVAREZ                   
+602790955,601011, ,20280418,00000,GRETTEL                       ,AGUILAR                   ,JUAREZ                    
+602790957,601043, ,20280710,00000,DORYAN JOHEL                  ,SANCHEZ                   ,SANCHEZ                   
+602790965,601047, ,20240728,00000,AURA                          ,QUESADA                   ,MOLINA                    
+602790973,601086, ,20300910,00000,PABLO ANTONIO                 ,PERALTA                   ,MORENO                    
+602790976,601047, ,20261222,00000,MARCELA                       ,SANCHEZ                   ,GUEVARA                   
+602790979,601096, ,20300204,00000,JORGE ANTONIO                 ,PERALTA                   ,ESPINOZA                  
+602790980,601098, ,20270202,00000,ANGELICA MARIA                ,BARRIENTOS                ,VELIZ                     
+602790983,601088, ,20220331,00000,SUGEILY                       ,MORAGA                    ,CABRALES                  
+602790984,601004, ,20280920,00000,GERARDO ANTONIO               ,OBANDO                    ,OBANDO                    
+602790989,601088, ,20261110,00000,MARIA ROXANA                  ,PARRA                     ,PARRA                     
+602790997,601107, ,20320202,00000,REBECA                        ,ESPINOZA                  ,RIVAS                     
+602790998,601088, ,20240410,00000,SILVANO                       ,VELASQUEZ                 ,GARCIA                    
+602800010,601017, ,20320202,00000,GEOVANY FRANCISCO             ,RAMIREZ                   ,ROSALES                   
+602800012,601012, ,20280724,00000,CARMEN                        ,CASTRO                    ,ROJAS                     
+602800018,601091, ,20300204,00000,ANA PATRICIA                  ,BALTODANO                 ,RAMIREZ                   
+602800042,601101, ,20300424,00000,KATTIA                        ,CONTRERAS                 ,VILLAGRA                  
+602800050,601006, ,20250710,00000,MELVIN EDUARDO                ,GOMEZ                     ,MARTINEZ                  
+602800051,601046, ,20280207,00000,MEYZONIERT ANESTER            ,SEGURA                    ,CORDOBA                   
+602800052,601008, ,20261130,00000,MARIA ELENA                   ,CORDERO                   ,AGUILAR                   
+602800057,601107, ,20260921,00000,HENRY                         ,RAMIREZ                   ,BARRANTES                 
+602800059,601072, ,20281127,00000,LETICIA                       ,ELIZONDO                  ,QUIROS                    
+602800061,601086, ,20280907,00000,SANTIAGO IGNACIO              ,HERNANDEZ                 ,NOGUERA                   
+602800063,601017, ,20260216,00000,YORLENY                       ,OROCU                     ,CARRILLO                  
+602800066,601107, ,20320202,00000,MARIO ANTONIO                 ,PORRAS                    ,SIBAR                     
+602800069,601095, ,20230625,00000,MARIA DE LOS ANGELES          ,MARTINEZ                  ,DIAZ                      
+602800091,601017, ,20300528,00000,YENORY VANESSA                ,VALLEJOS                  ,AVILA                     
+602800095,601025, ,20320202,00000,MARITZA                       ,CRUZ                      ,MENDEZ                    
+602800096,601043, ,20300204,00000,JOSE RICARDO                  ,SANCHEZ                   ,NAVARRO                   
+602800097,601086, ,20300316,00000,ALINA                         ,LEAL                      ,ALVAREZ                   
+602800105,601001, ,20220420,00000,MARCELA                       ,ALVAREZ                   ,QUESADA                   
+602800107,601087, ,20300204,00000,MITZY                         ,CHARLTON                  ,PONCE                     
+602800108,601024, ,20300302,00000,JOSE ANTONIO                  ,CHAMORRO                  ,MENDOZA                   
+602800121,601033, ,20261110,00000,YADIRA                        ,MOLINA                    ,RODRIGUEZ                 
+602800123,601005, ,20300204,00000,XINIA PATRICIA                ,VENEGAS                   ,CAMPOS                    
+602800162,601024, ,20300821,00000,ESTEBAN ARTURO                ,ALVAREZ                   ,BATISTA                   
+602800165,601047, ,20280924,00000,DENNIS RICARDO                ,GARCIA                    ,MATARRITA                 
+602800169,601004, ,20300220,00000,JOSE LUIS                     ,QUIROS                    ,MUÑOZ                     
+602800178,601093, ,20280316,00000,FRANCISCO JOSE                ,BADILLA                   ,OBANDO                    
+602800186,601101, ,20260823,00000,GEORGE                        ,LEAL                      ,MATARRITA                 
+602800187,601101, ,20260922,00000,SARA                          ,LEAL                      ,MATARRITA                 
+602800191,601001, ,20280331,00000,JOSE JOAQUIN                  ,PEREZ                     ,AGUILAR                   
+602800192,601091, ,20280917,00000,FRED                          ,SANCHEZ                   ,CHAVARRIA                 
+602800195,601087, ,20280207,00000,RANDALL JAVIER                ,NAVARRO                   ,GUEVARA                   
+602800196,601087, ,20300206,00000,JOSE NAUTILIO                 ,MADRIGAL                  ,ARTAVIA                   
+602800232,601012, ,20240331,00000,MAIKEL                        ,SANCHEZ                   ,BOLAÑOS                   
+602800233,601086, ,20320202,00000,JAIME                         ,JIMENEZ                   ,FLORES                    
+602800234,601012, ,20300930,00000,BERNAS                        ,JIMENEZ                   ,CLUNDEIG                  
+602800242,601017, ,20300204,00000,JOSE MANUEL                   ,BARCIAS                   ,SOTO                      
+602800259,601089, ,20281008,00000,KEMBLIS                       ,GARCIA                    ,CASTRO                    
+602800272,601017, ,20250410,00000,ERICK ALONSO                  ,GONZALEZ                  ,CALDERON                  
+602800280,601025, ,20300204,00000,DANNY                         ,RAMIREZ                   ,MIRANDA                   
+602800290,601031, ,20300811,00000,CRISTOBAL                     ,REYES                     ,VEGA                      
+602800299,601017, ,20270508,00000,IRENE                         ,BUSTOS                    ,CARRILLO                  
+602800302,601069, ,20300204,00000,JOSE MANUEL                   ,VASQUEZ                   ,MORA                      
+602800310,601101, ,20281024,00000,IVONNE                        ,CASTRO                    ,QUESADA                   
+602800319,601086, ,20300522,00000,MIRIAM                        ,RODRIGUEZ                 ,UREÑA                     
+602800358,601005, ,20300204,00000,ANTONIO                       ,GONZALEZ                  ,ALVARADO                  
+602800362,601047, ,20310125,00000,RUDY ANTONIO                  ,VIALES                    ,ABARCA                    
+602800363,601087, ,20280207,00000,EFREN                         ,ARRIETA                   ,CHACON                    
+602800366,601005, ,20300204,00000,GLADYS                        ,LORIA                     ,MORA                      
+602800377,601100, ,20300228,00000,RANDALL DE JESUS              ,MORERA                    ,GUEVARA                   
+602800378,601088, ,20300803,00000,LINCEY                        ,ALVARADO                  ,ZAMORA                    
+602800387,601035, ,20280207,00000,MARCOS ANTONIO                ,ZELEDON                   ,ZELEDON                   
+602800388,601043, ,20270404,00000,LIDIETH                       ,NOVOA                     ,RAMIREZ                   
+602800391,601037, ,20310122,00000,CARLOS LUIS                   ,PARRA                     ,BALTODANO                 
+602800392,601043, ,20280822,00000,KAROL VANESSA                 ,DOMINGO                   ,MONTES                    
+602800413,601091, ,20231209,00000,ODETTE                        ,MORENO                    ,CARVAJAL                  
+602800419,601026, ,20240107,00000,JOSE ALFREDO                  ,MENDOZA                   ,RAMOS                     
+602800465,601031, ,20250625,00000,HENRY                         ,ROJAS                     ,DELGADO                   
+602800479,601001, ,20320202,00000,CECIA MARIA                   ,OBANDO                    ,PICADO                    
+602800480,601100, ,20280706,00000,SANDRA                        ,AMADOR                    ,PORRAS                    
+602800499,601017, ,20320202,00000,MIRNA                         ,MARCOS                    ,CHINCHILLA                
+602800520,601052, ,20300204,00000,YAMILETH                      ,ROBLES                    ,ROJAS                     
+602800538,601017, ,20300204,00000,JUAN CARLOS                   ,CORTES                    ,MORALES                   
+602800544,601100, ,20300204,00000,YAIDANIA                      ,LARA                      ,CAMPOS                    
+602800547,601017, ,20300204,00000,IDANNIA                       ,MADRIGAL                  ,UGALDE                    
+602800549,601014, ,20280503,00000,ALEXIS                        ,MIRANDA                   ,MADRIGAL                  
+602800552,601017, ,20280612,00000,MARCOS RAUL                   ,PANIAGUA                  ,SOLANO                    
+602800557,601016, ,20250225,00000,DUNIA LISBETT                 ,MONTES                    ,MATARRITA                 
+602800558,601024, ,20270222,00000,EMANDINA                      ,CALDERON                  ,VARGAS                    
+602800563,601025, ,20220331,00000,HEYNER                        ,VARELA                    ,MENDEZ                    
+602800569,601082, ,20281113,00000,MARIA ESTHER                  ,LOPEZ                     ,LOPEZ                     
+602800572,601086, ,20260503,00000,WENDY                         ,GORGONA                   ,NUÑEZ                     
+602800573,601019, ,20241028,00000,JOHNANTHAN                    ,GOMEZ                     ,ROSALES                   
+602800581,601090, ,20300204,00000,MARIA                         ,MASIS                     ,MARTINEZ                  
+602800586,601087, ,20300430,00000,YANCY DEL CARMEN              ,DELGADO                   ,MENA                      
+602800591,601107, ,20300821,00000,YESENIA                       ,RODRIGUEZ                 ,RODRIGUEZ                 
+602800597,601017, ,20300204,00000,DANNIA                        ,MONTOYA                   ,CASANOVA                  
+602800599,601025, ,20240908,00000,ELIZABETH                     ,GONZALEZ                  ,VARGAS                    
+602800607,601025, ,20280207,00000,BORIS                         ,MORA                      ,BULAKAR                   
+602800624,601098, ,20301026,00000,HENRY                         ,GOMEZ                     ,HERNANDEZ                 
+602800629,601031, ,20220630,00000,SARA LORENA                   ,REYES                     ,PIZARRO                   
+602800630,601047, ,20220630,00000,GRETTEL MELISSA               ,GUERRERO                  ,FUENTES                   
+602800631,601017, ,20300204,00000,DANNY ALBERTO                 ,ORTEGA                    ,MOSCOSO                   
+602800633,601027, ,20270301,00000,XINIA                         ,RODRIGUEZ                 ,CAMPOS                    
+602800637,601011, ,20221121,00000,ANDREA                        ,ZUÑIGA                    ,CHAVARRIA                                                                           
