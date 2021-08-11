@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+ 
+{% block title %}Registro Electoral{% endblock title %}
+ 
+{% block content %}
+<div class="col-md-12">
+    <h4>Padrón Electoral 2021</h4> 
+         
+ <form method="POST" class="post-form" action="addnew">
+   {% csrf_token %}  
+  <div class="container">  
+ <br>  
+  <div class="form-group row">  
+  <label class="col-sm-1 col-form-label"></label>  
+  <div class="col-sm-4">  
+  <h3>Registro Electoral</h3>  
+  </div>  
+   </div>  
+   
+   <div class="form-group row">  
+  <label class="col-sm-2 col-form-label">Nombre Completo:</label>  
+  <div class="col-sm-4">  
+    {{ form.name }}  
+  </div>  
+   </div>  
+  <div class="form-group row">  
+  <label class="col-sm-2 col-form-label">Número de Cédula:</label>  
+  <div class="col-sm-4">  
+    {{ form.id_people }}  
+  </div>  
+   </div>  
+  <div class="form-group row">  
+  <label class="col-sm-2 col-form-label">Lugar de Votación:</label>  
+  <div class="col-sm-4">  
+    {{ form.place }}  
+  </div>  
+   </div>
+   <div class="form-group row">  
+  <label class="col-sm-2 col-form-label">Mesa de Votación:</label>  
+  <div class="col-sm-4">  
+    {{ form.table }}  
+  </div>  
+   </div> 
+   <div class="form-group row">  
+  <label class="col-sm-2 col-form-label">Vencimiento de la Cédula:</label>  
+  <div class="col-sm-4">  
+    {{ form.venc_id }}  
+  </div>  
+   </div>   
+  <div class="form-group row">  
+  <label class="col-sm-1 col-form-label"></label>  
+  <div class="col-sm-4">  
+  <button type="submit" value="addnew" class="btn btn-primary btn-lg">Registrar</button>
+  <span><a href="/" class="btn btn-primary btn-lg">Volver</a>
+    </span>  
+  </div>  
+   </div>  
+  </div>  
+ </form>  
+</div> 
+{% endblock content %} 
